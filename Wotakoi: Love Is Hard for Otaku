@@ -1,0 +1,17 @@
+{    
+    "title": "Wotakoi: Love Is Hard for Otaku",
+    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
+    "author": "Fujita",
+    "artist": "Fujita",
+    "cover": "https://i.imgur.com/MxxaE9O.png",
+    "chapters": {
+        "0": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+            },
+            "last_updated": 1624606143,
+            "title": "Intro",
+            "volume": "1"
+        }
+    }
+}
